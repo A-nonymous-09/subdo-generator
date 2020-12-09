@@ -1,0 +1,20 @@
+how to use :
+
+1.choose any number ex : 3
+
+2.choose how much you want to spam
+
+3.and set name the file ex : file.txt
+
+3.wait until the file successfully created
+
+4.move to sdcard using following command :
+- mv file.txt /sdcard ( if error try go to setting > termux > allow storage )
+
+5.in file manager search your file 
+
+6.open and copy
+
+7.in browser open this link : defacer.id/archive/notify
+
+8.and notify
